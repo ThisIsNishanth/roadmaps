@@ -4,7 +4,7 @@
 
 ### What is front end developer
 
-* <a href="https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html" target="_blank" rel="noopener noreferrer">What is a frontend developer? - frontendmasters.com</a>
+<a href="https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html" target="_blank" rel="noopener noreferrer">What is a frontend developer? - frontendmasters.com</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" target="_blank" rel="noopener noreferrer">Frontend web developer - Mozilla Developer docs</a>
 * <a href="https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/" target="_blank" rel="noopener noreferrer">What is frontend development - Freecodecamp</a>
 
